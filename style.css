@@ -441,7 +441,7 @@ html, body {
     .download-button{
     text-decoration: none;
     padding: 3vw 5vw;
-    font-size:3.5vw;
+    font-size:3.3vw;
     line-height: 3.5vw;
     border-radius: 30px;
     border: transparent;
@@ -467,7 +467,7 @@ html, body {
         display: none;
     }
     .bento-mob{
-        margin-top: 16vw;
+        margin-top: 14vw;
         padding: 2vw 3vw;
         width: 100%;
         display: block;
